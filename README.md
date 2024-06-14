@@ -1,7 +1,7 @@
 
 # Lista de Exercícios 2
 
-As listas de exercícios são criadas em JavaScript e rodam a partid do Node.
+As listas de exercícios são criadas em JavaScript e rodam a partir do Node.
 
 ## Modo de Uso
 
